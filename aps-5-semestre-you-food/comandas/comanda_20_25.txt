@@ -1,0 +1,19 @@
+Resumo da comanda
+Hora: 20:25
+Data: 09/11/2021
+Cliente zzzzzzzzz
+
+Ids produtos:
+13 
+
+Ids bebidas:
+
+
+Relatorio
+
+Produtos
+Id: 6
+Nome: Cafe
+Preco: 4
+
+Bebidas

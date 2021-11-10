@@ -1,0 +1,28 @@
+Resumo da comanda
+Hora: 20:29
+Data: 09/11/2021
+Cliente zzzzzzzzz
+
+Ids produtos:
+9 8 9 1 
+
+
+Relatorio
+
+Produtos
+Id: 9
+Nome: Agua
+Preco: 3
+
+Id: 8
+Nome: Refrigerante 2L
+Preco: 12
+
+Id: 9
+Nome: Agua
+Preco: 3
+
+Id: 1
+Nome: Panquecas
+Preco: 18
+
