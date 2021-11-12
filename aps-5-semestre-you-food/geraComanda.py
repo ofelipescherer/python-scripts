@@ -42,7 +42,7 @@ f.write('\n')
 # for i in bebi_id:
 #     f.write(f'{i} '),
 
-f.write('\n\n')
+f.write('\n')
 
 f.write('Relatorio\n\n')
 f.write('Produtos\n')
